@@ -1,0 +1,27 @@
+{
+  "name": "voice",
+  "version": "1.0.0",
+  "description": "working with aws ai voice services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bilal-S/voice.git"
+  },
+  "keywords": [
+    "voice",
+    "lex",
+    "polly"
+  ],
+  "author": "Bilal Soylu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Bilal-S/voice/issues"
+  },
+  "homepage": "https://github.com/Bilal-S/voice#readme",
+  "dependencies": {
+    "aws-sdk": "^2.10.0"
+  }
+}
